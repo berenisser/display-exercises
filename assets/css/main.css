@@ -147,3 +147,17 @@ body {
 	border: 1px solid green;
 	margin: 0;
 }
+
+/*HTML principal*/
+a {
+	background-color: #7EC500;
+	color: white;
+	width: 100px;
+	text-decoration: none;
+	padding: 20px 40px;
+	margin-top: 20px;
+}
+
+a:hover {
+	background-color: #c5007e;
+}
