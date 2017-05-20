@@ -70,3 +70,33 @@ body {
 	text-transform: uppercase;
 	padding: 10px;
 }
+
+/*HTML4*/
+.cuarta {
+	display: inline-block;
+}
+
+.d {
+	background-color: yellow;
+	display: inherit;
+	margin:5px;
+	width: 200px;
+	padding: 10px 0 40px 10px;
+}
+
+.e {
+	background-color: red;
+	display: inherit;
+	margin:5px;
+	width: 200px;
+	padding: 10px 0 40px 10px;
+}
+
+.f {
+	background-color: yellow;
+	display: inherit;
+	text-transform: uppercase;
+	margin:5px;
+	width: 200px;
+	padding: 10px 0 40px 10px;
+}
