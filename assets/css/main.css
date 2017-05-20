@@ -1,0 +1,31 @@
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+.primera{
+	display: block;
+	width: 50%;
+	margin: 0 auto;
+	padding: 100px;
+}
+
+.uno {
+	background-color: yellow;
+	margin:0;
+	padding: 10px 0 40px 10px;
+}
+
+.dos {
+	background-color: red;
+	margin:0;
+	padding: 10px 0 40px 10px;
+	border: 1px solid;
+}
+
+.tres {
+	background-color: yellow;
+	text-transform: uppercase;
+	margin:0;
+	padding: 10px 0 40px 10px;
+}
