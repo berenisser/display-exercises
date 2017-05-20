@@ -1,6 +1,7 @@
 body {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 20px;
+	width: 100%;
 }
 
 /*HTML1*/
@@ -43,4 +44,29 @@ body {
 	background-color: red;
 	margin:20px 0;
 	padding: 10px 0 40px 10px;
+}
+
+/*HTML3*/
+.tercera {
+	display: inline;
+	text-align: center;
+}
+
+.a {
+	background-color: yellow;
+	display: inherit;
+	padding: 10px;
+}
+
+.b {
+	background-color: red;
+	display: inherit;
+	padding: 10px;
+}
+
+.c {
+	background-color: yellow;
+	display: inherit;
+	text-transform: uppercase;
+	padding: 10px;
 }
