@@ -3,6 +3,7 @@ body {
 	font-size: 20px;
 }
 
+/*HTML1*/
 .primera{
 	display: block;
 	width: 50%;
@@ -27,5 +28,19 @@ body {
 	background-color: yellow;
 	text-transform: uppercase;
 	margin:0;
+	padding: 10px 0 40px 10px;
+}
+
+/*HTML2*/
+.segunda {
+	display: block;
+	width: 17%;
+	margin: 0 auto;
+	padding: 100px;
+}
+
+.two {
+	background-color: red;
+	margin:20px 0;
 	padding: 10px 0 40px 10px;
 }
